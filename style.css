@@ -1,0 +1,23 @@
+body{
+
+background-color: cyan
+
+}
+header{
+
+background-color: white
+
+}
+.divbola{
+
+   display: grid;
+   grid-template-columns: 20% 20% 20% 20% 20%;
+
+
+}
+.imgbola{
+
+   width: 350px;
+   height: 310px;
+}
+
